@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/sathappan/socket.io"
+    "url": "git://github.com/navaneeth00/socket.io"
   },
   "scripts": {
     "test": "make test"
@@ -22,7 +22,7 @@
     "engine.io": "1.4.3",
     "socket.io-parser": "2.2.2",
     "socket.io-client": "1.2.1",
-    "socket.io-adapter": "git://github.com/sathappan/socket.io-adapter",
+    "socket.io-adapter": "git://github.com/navaneeth00/socket.io-adapter",
     "has-binary-data": "0.1.3",
     "debug": "0.7.4"
   },
